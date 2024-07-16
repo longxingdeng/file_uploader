@@ -12,4 +12,4 @@
 ```
 将config.json.template文件名改为congfig.json
 
-替换你的cozt key
+替换你的coze key
